@@ -1,0 +1,58 @@
+* {
+  background-image: url(/ejercStarWars/img/space-1164579_1280.webp);
+  text-align: center;
+  color: red;
+}
+body {
+  font-family: "Star Jedi", arial;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.imperio {
+  background-color: red;
+}
+.rebeldes {
+  background-color: blue;
+}
+#vader {
+  font-size: 250%;
+}
+
+#luke {
+  font-style: italic;
+}
+.tropers {
+  border: dashed;
+  letter-spacing: 20px;
+}
+.apoyo {
+  text-align: center;
+}
+.naves {
+  text-transform: uppercase;
+}
+#droides {
+  list-style: none;
+  text-align: center;
+}
+.img {
+  margin: 0px auto;
+  height: 300px;
+  width: auto;
+}
+li {
+  list-style: none;
+}
+ul {
+  list-style: none;
+}
+#lidervader {
+  text-decoration: underline;
+}
+#liderluke {
+  text-decoration: underline;
+}
+#origin {
+  text-transform: uppercase;
+  text-decoration: underline;
+}

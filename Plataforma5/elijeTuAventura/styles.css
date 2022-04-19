@@ -1,0 +1,12 @@
+* {
+  background-color: black;
+  text-align: center;
+  color: red;
+}
+.img {
+  display: block;
+  align-items: center;
+  margin: 0px auto;
+  height: 400px;
+  width: auto;
+}

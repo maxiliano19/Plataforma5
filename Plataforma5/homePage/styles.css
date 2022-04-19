@@ -1,0 +1,14 @@
+* {
+  font-family: "Cinzel", serif;
+  text-align: center;
+  background-color: pink;
+}
+#title {
+  font-size: 100px;
+}
+#subti {
+  font-size: 50px;
+}
+#ref {
+  font-size: 25px;
+}

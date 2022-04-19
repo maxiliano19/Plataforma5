@@ -1,0 +1,10 @@
+* {
+}
+.video {
+  border-style: dashed;
+  border-color: green;
+}
+.mapa {
+  border-color: red;
+  border-style: dotted;
+}

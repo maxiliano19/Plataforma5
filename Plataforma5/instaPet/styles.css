@@ -1,0 +1,22 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  text-align: left;
+  color: blue;
+  text-transform: uppercase;
+  font-family: "Cinzel", serif;
+  font-family: "Dancing Script";
+  font-size: 20px;
+  font-style: oblique;
+}
+body {
+  background-image: url(/instaPet/img/mascotas-listados.jpg);
+  background-position: center;
+  background-image: no-repeat;
+  background-image: fixed;
+  background-image: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: black;
+}
